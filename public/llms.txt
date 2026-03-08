@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חידוני כדורגל מרתקים לאוהדים אמיתיים! טריוויה על הליגה הישראלית וכדורגל עולמי, אתגרים מותאמים אישית ושאלות שיבדקו עד כמה אתה מכיר את המשחק.
+
+### מצבי חידון
+https://example.com/quizzes
+מגוון מצבי חידון בכדורגל: ליגה ישראלית, ליגות אירופה, נבחרות עולם ועוד. בחר את רמת הקושי והתחל לשחק עכשיו - מתחילים ועד מומחים!
+
+### אודות
+https://example.com/about
+חידון העם היא הפלטפורמה הישראלית המובילה לחידוני כדורגל. גלה את החזון שלנו, הצוות המקצועי והמחויבות ליצור חוויית חידון ייחודית לכל אוהדי הכדורגל.
+
+### צור קשר
+https://example.com/contact
+צור קשר עם צוות חידון העם! נשמח לשמוע רעיונות לחידונים חדשים, לענות על שאלות או לקבל משוב. אנחנו כאן בשבילך - כתוב לנו עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
